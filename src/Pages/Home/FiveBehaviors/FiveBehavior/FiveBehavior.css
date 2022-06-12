@@ -1,0 +1,23 @@
+.card {
+  align-items: center;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px #e24f6d;
+  color: crimson;
+  cursor: pointer;
+  display: flex;
+  font-family: Courier New, Courier, monospace;
+  font-size: 2vmax;
+  font-weight: 800;
+  height: 150px;
+  justify-content: center;
+  margin: 10px;
+  width: 300px;
+}
+.card {
+  font-size: 3vmax;
+}
+
+#services {
+  text-decoration: none;
+}
